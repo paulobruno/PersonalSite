@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Posts"
+    url: /about/
+  - title: "Research"
+    url: /about/
+  - title: "Publications"
+    url: /about/
+  - title: "Talks"
+    url: /about/
+  - title: "Students"
+    url: /about/
+#  - title: "Sample Posts"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Sitemap"
+#    url: /sitemap/
+  - title: "About"
+    url: /about/
