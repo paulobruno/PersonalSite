@@ -24,7 +24,19 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+        
     {% include post__meta.html type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    
+    <!--{% if post.thumbnail %}
+      <div class="archive__item-teaser">
+        <img src="{{ post.thumbnail }}" alt="">
+      </div>
+    {% endif %}-->
+    
+    {% if page.subtitle %}
+        <p class="archive__item-excerpt" itemprop="description">{{ page.subtitle }}</p>
+    {% else %}
+        {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% endif %}
   </article>
 </div>

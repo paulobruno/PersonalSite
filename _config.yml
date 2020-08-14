@@ -113,7 +113,7 @@ author:
       url: "https://www.researchgate.net/profile/Paulo_Serafim2"
     - label: "Resumé"
       icon: "fas fa-fw fa-file-alt"
-      url: "https://"
+      url: "/assets/cv/PauloBrunoResume.pdf"
     - label: "Lattes CV"
       icon: "fas fa-fw fa-user"
       url: "http://lattes.cnpq.br/7877766764101416"
@@ -279,6 +279,22 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
+  # _posts
+  - scope:
+      path: "_posts/publications"
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
+      show_date: true
+      sidebar:
+        nav: "papers-sidebar"

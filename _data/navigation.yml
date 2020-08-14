@@ -1,20 +1,32 @@
 # main links
 main:
   - title: "Posts"
-    url: /about/
+    url: /posts/
   - title: "Research"
-    url: /about/
+    url: /research/
   - title: "Publications"
-    url: /about/
+    url: /publications/
   - title: "Talks"
-    url: /about/
+    url: /talks/
   - title: "Students"
-    url: /about/
-#  - title: "Sample Posts"
-#    url: /year-archive/
-#  - title: "Sample Collections"
-#    url: /collection-archive/
-#  - title: "Sitemap"
-#    url: /sitemap/
+    url: /students/
   - title: "About"
     url: /about/
+    
+papers-sidebar:
+  - title: 2019
+    children:
+      - title: "IJCNN 2019"
+        url: /publication/IJCNN-/
+      - title: "SBGames 2019"
+        url: /publication/SBGames-a-minimal-training/
+  - title: 2018
+    children:
+      - title: "SBGames 2018"
+        url: /publication/SBGames-evaluating-competition/
+  - title: 2017
+    children:
+      - title: "SBGames 2017"
+        url: /publication/SBGames-on-the-development/
+      - title: "SVR 2017"
+        url: /publication/SVR-towards-playing/
