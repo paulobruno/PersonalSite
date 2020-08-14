@@ -13,13 +13,13 @@ author_profile: true
   <li style="text-align:left"><a href="https://www.linkedin.com/in/halisson-rodrigo-7b803651/">Halisson Rodrigo</a> (2019-)</li>
 </ul>
 
-#### MsC
+#### MSc
 
 <ul>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/anderson-oliveira-b65099133/">Anderson Oliveira</a> (2017-) [co-advisor]</li>
 </ul>
 
-#### BsC
+#### BSc
 
 <ul>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/romulofff/">Rômulo Férrer Filho</a> (2019-)</li>
@@ -29,7 +29,7 @@ author_profile: true
 
 ## Former Students
 
-#### BsC
+#### BSc
 
 <ul>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/matheus-cordeiro-453373ba/">Matheus Cordeiro</a> (2017-2019) [co-advisor]</li>
