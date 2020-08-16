@@ -2,6 +2,8 @@
 title: "On the Development of an Autonomous Agent for a 3D First-Person Shooter Game Using Deep Reinforcement Learning"
 subtitle: "16th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)"
 thumbnail: /assets/images/all_scenarios_color.jpg
+header:
+    teaser: /assets/images/all_scenarios_color.jpg
 categories:
   - Publication
 tags:

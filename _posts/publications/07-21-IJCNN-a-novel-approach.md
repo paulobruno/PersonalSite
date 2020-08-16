@@ -2,6 +2,8 @@
 title: "A Novel Approach for Automatic Enhancement of Fingerprint Images via Deep Transfer Learning"
 subtitle: "2020 International Joint Conference on Neural Networks (IJCNN)"
 thumbnail: /assets/images/ijcnn-2020.jpg
+header:
+    teaser: /assets/images/ijcnn-2020.jpg
 categories:
   - Publication
 tags:

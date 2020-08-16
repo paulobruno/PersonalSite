@@ -2,6 +2,8 @@
 title: "Evaluating Competition in Training of Deep Reinforcement Learning Agents in First-Person Shooter Games"
 subtitle: "17th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)"
 thumbnail: /assets/images/two_agents.jpg
+header:
+    teaser: /assets/images/two_agents.jpg
 categories:
   - Publication
 tags:

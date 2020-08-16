@@ -2,6 +2,8 @@
 title: "Towards Playing a 3D First-Person Shooter Game Using a Classification Deep Neural Network Architecture"
 subtitle: "19th Symposium on Virtual and Augmented Reality (SVR)"
 thumbnail: /assets/images/mnist_vizdoom.jpg
+header:
+    teaser: /assets/images/mnist_vizdoom.jpg
 categories:
   - Publication
 tags:

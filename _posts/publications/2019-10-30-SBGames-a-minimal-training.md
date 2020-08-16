@@ -2,6 +2,8 @@
 title: "A Minimal Training Strategy to Play Flappy Bird Indefinitely with NEAT"
 subtitle: "18th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)"
 thumbnail: /assets/images/flappy_neat.png
+header:
+    teaser: /assets/images/flappy_neat.png
 categories:
   - Publication
 tags:

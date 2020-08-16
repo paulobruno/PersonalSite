@@ -1,7 +1,9 @@
 ---
 title: "A Method based on Convolutional Neural Networks for Fingerprint Segmentation"
 subtitle: "2019 International Joint Conference on Neural Networks (IJCNN)"
-thumbnail: /assets/images/ijcnn.jpg
+thumbnail: /assets/images/ijcnn-2019-fluxogram.jpg
+header:
+    teaser: /assets/images/ijcnn-2019-fluxogram.jpg
 categories:
   - Publication
 tags:
