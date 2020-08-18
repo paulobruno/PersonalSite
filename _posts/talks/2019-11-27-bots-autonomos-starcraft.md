@@ -14,7 +14,7 @@ classes: wide
 
 [Paulo Bruno de Sousa Serafim](paulobruno.github.io)
 
-**The Developer's Conference (TDC) | Porto Alegre (2019)**
+**The Developer's Conference (TDC), Porto Alegre (2019)**
 
 <div style="position:relative;width:100%;overflow:hidden;padding-top:59.27%">
     <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;border:none" src="https://docs.google.com/presentation/d/e/2PACX-1vTOssRXnPsr3QiT3cO_qejAHYxos1gl0XFEJ81-PPzHeD3umf4E257JMukDrmJzIDeL2taLx8zKVye6/embed?start=true&loop=false&delayms=30000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
