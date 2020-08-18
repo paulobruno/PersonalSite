@@ -1,6 +1,7 @@
 ---
 title: "Minicurso Introdução à Programação de Jogos 2D"
 subtitle: (PT-BR)
+thumbnail: /assets/images/talk-2015-CA.jpg
 header:
     teaser: /assets/images/talk-2015-CA.jpg
 categories:

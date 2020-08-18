@@ -10,9 +10,9 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% if post.thumbnail %}
+{% if include.type != "grid" and post.thumbnail %}
 <div style="display:flex;">
-    <img style="width:200px;padding-right:10px;margin:auto;" src="{{ post.thumbnail }}" alt="">
+    <img style="width:180px;padding-right:10px;margin:auto;margin-left:0;margin-right:0;" src="{{ post.thumbnail }}" alt="">
 {% endif %}
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
@@ -45,6 +45,6 @@
     {% endif %}
   </article>
 </div>
-{% if post.thumbnail %}
+{% if include.type != "grid" and post.thumbnail %}
 </div>
 {% endif %}

@@ -1,6 +1,7 @@
 ---
 title: "Introdução à Inteligência Artificial aplicada a Jogos Digitais"
 subtitle: (PT-BR)
+thumbnail: /assets/images/talk-2018-UNIFANOR.jpg
 header:
     teaser: /assets/images/talk-2018-UNIFANOR.jpg
 categories:

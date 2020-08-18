@@ -1,6 +1,7 @@
 ---
 title: "Inteligência Artificial aplicada a Jogos Digitais"
 subtitle: (PT-BR)
+thumbnail: /assets/images/talk-2017-Unichristus.jpg
 header:
     teaser: /assets/images/talk-2017-Unichristus.jpg
 categories:

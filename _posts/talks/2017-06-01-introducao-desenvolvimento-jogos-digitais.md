@@ -1,6 +1,7 @@
 ---
 title: "Introdução ao Desenvolvimento de Jogos Digitais"
 subtitle: (PT-BR)
+thumbnail: /assets/images/talk-2017-JG.jpg
 header:
     teaser: /assets/images/talk-2017-JG.jpg
 categories:

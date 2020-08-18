@@ -1,6 +1,7 @@
 ---
 title: "Por que os bots são burros?"
 subtitle: (PT-BR)
+thumbnail: /assets/images/talk-2016-CA.jpg
 header:
     teaser: /assets/images/talk-2016-CA.jpg
 categories:

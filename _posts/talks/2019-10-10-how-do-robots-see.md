@@ -1,12 +1,14 @@
 ---
 title: "How do robots see?"
 subtitle: "An introduction to semantic segmentation in images"
+thumbnail: /assets/images/talk-2019-HP.jpg
 header:
     teaser: /assets/images/talk-2019-HP.jpg
 categories:
   - Talk
 tags:
   - Deep Learning
+  - Segmentation
   - HP
 classes: wide
 ---

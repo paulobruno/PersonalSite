@@ -1,6 +1,7 @@
 ---
 title: "Bots autônomos em StarCraft II"
 subtitle: Criando uma IA para o jogo usando o ambiente PySC2 (PT-BR)
+thumbnail: /assets/images/talk-2019-TDC.jpg
 header:
     teaser: /assets/images/talk-2019-TDC.jpg
 categories:
