@@ -4,4 +4,5 @@ permalink: /publications/
 layout: category
 author_profile: true
 taxonomy: Publication
+classes: wide
 ---
