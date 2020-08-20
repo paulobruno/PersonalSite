@@ -12,7 +12,7 @@ tags:
 classes: wide
 ---
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
 
 **Feira Tecnológica 2017, EEEP Júlia Giffoni**
 

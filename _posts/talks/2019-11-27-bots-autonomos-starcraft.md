@@ -13,7 +13,7 @@ tags:
 classes: wide
 ---
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
 
 **The Developer's Conference (TDC), Porto Alegre (2019)**
 

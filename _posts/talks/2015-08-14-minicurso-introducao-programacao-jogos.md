@@ -12,7 +12,7 @@ tags:
 classes: wide
 ---
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
   Arthur Carvalho Walraven da Cunha
 
 **X Semana Acadêmica da Computação (2015)**  

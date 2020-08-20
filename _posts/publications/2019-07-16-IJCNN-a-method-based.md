@@ -15,7 +15,7 @@ tags:
 
 *2019 International Joint Conference on Neural Networks (IJCNN)*  
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)<sup>1,5</sup>
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)<sup>1,5</sup>
   [Aldísio Gonçalves Medeiros](https://lapisco.ifce.edu.br/scriptlattes01/membro-8841156817863019.html)<sup>1,5</sup>
   [Paulo Antonio Leal Rego](https://cc.ufc.br/curso/corpo-docente/pauloalr/)<sup>1,5</sup>  
 [José Gilvan Rodrigues Maia](https://scholar.google.com.br/citations?user=gnTTsAYAAAAJ&hl=en)<sup>2,5</sup>

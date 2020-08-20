@@ -13,7 +13,7 @@ tags:
 classes: wide
 ---
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
 
 **SEMATEC 2018 - UNIFANOR, WYDEN**
 

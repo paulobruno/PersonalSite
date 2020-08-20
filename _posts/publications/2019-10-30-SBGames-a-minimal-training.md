@@ -15,7 +15,7 @@ tags:
 *18th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)*  
 
 [Matheus Gomes Cordeiro](https://www.linkedin.com/in/matheus-cordeiro-453373ba/)<sup>1</sup>
-  [Paulo Bruno de Sousa Serafim](paulobruno.github.io)<sup>2</sup>
+  [Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)<sup>2</sup>
   [Yuri Lenon Barbosa Nogueira](http://www.lia.ufc.br/~yuri/)<sup>3</sup>  
 [Creto Augusto Vidal](http://www.lia.ufc.br/~cvidal/)<sup>3</sup>
   [Joaquim Bento Cavalcante Neto](http://www.lia.ufc.br/~joaquimb/)<sup>3</sup>

@@ -17,7 +17,7 @@ tags:
 
 [Aldísio Gonçalves Medeiros](https://lapisco.ifce.edu.br/scriptlattes01/membro-8841156817863019.html)<sup>4,5</sup>
   [João Pedro Bernardino Andrade](https://www.linkedin.com/in/joaopedrobernardino/)<sup>1,4</sup>
-  [Paulo Bruno de Sousa Serafim](paulobruno.github.io)<sup>4</sup>  
+  [Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)<sup>4</sup>  
 [Alexandre Magno Monte Santos](https://github.com/magnomont12)<sup>1,4</sup>
   [José Gilvan Rodrigues Maia](https://scholar.google.com.br/citations?user=gnTTsAYAAAAJ&hl=en)<sup>2,4</sup>
   [Fernando Antonio Mota Trinta](https://cc.ufc.br/curso/corpo-docente/fernando-trinta)<sup>1,4</sup>  

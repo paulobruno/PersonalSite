@@ -12,7 +12,7 @@ tags:
 classes: wide
 ---
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
 
 **Centro Acadêmico Alan Turing (2016)**  
 **Universidade Federal do Ceará (UFC)**

@@ -12,7 +12,7 @@ tags:
 classes: wide
 ---
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
 
 **III Jornada de Sistemas de Informação (2017)**  
 **Centro Universitário Christus (Unichristus)**

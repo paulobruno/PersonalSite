@@ -14,7 +14,7 @@ tags:
 
 *17th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)*  
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
   [Yuri Lenon Barbosa Nogueira](http://www.lia.ufc.br/~yuri/)  
 [Creto Augusto Vidal](http://www.lia.ufc.br/~cvidal/)
   [Joaquim Bento Cavalcante Neto](http://www.lia.ufc.br/~joaquimb/)

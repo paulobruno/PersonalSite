@@ -14,7 +14,7 @@ tags:
 
 *19th Symposium on Virtual and Augmented Reality (SVR)*  
 
-[Paulo Bruno de Sousa Serafim](paulobruno.github.io)
+[Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
   [Yuri Lenon Barbosa Nogueira](http://www.lia.ufc.br/~yuri/)  
 [Creto Augusto Vidal](http://www.lia.ufc.br/~cvidal/)
   [Joaquim Bento Cavalcante Neto](http://www.lia.ufc.br/~joaquimb/)
