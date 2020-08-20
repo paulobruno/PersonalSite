@@ -13,7 +13,11 @@
 {% if include.type != "grid" and post.thumbnail %}
 <div style="display:flex;align-items:center;margin-bottom:32px">
   <div style="width:170px;height: 96px;background:#1a1d24;margin-right: 10px;flex-shrink: 0;display: flex;align-items: center;">
-    <img style="width:100%;" src="{{ post.thumbnail }}" alt="">
+    {% if post.link %}
+      <img style="width:100%;cursor:pointer" src="{{ post.thumbnail }}" alt="" onclick="location.href='{{ post.link }}'">
+    {% else %}
+      <img style="width:100%;cursor:pointer" src="{{ post.thumbnail }}" alt="" onclick="location.href='{{ post.url | relative_url }}'">
+    {% endif %}
   </div>
 {% endif %}
 <div class="{{ include.type | default: "list" }}__item">
