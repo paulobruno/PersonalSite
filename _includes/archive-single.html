@@ -11,17 +11,19 @@
 {% endif %}
 
 {% if include.type != "grid" and post.thumbnail %}
-<div style="display:flex;">
-  <img style="width:180px;padding-right:10px;margin:auto;margin-left:0;margin-right:0;" src="{{ post.thumbnail }}" alt="">
+<div style="display:flex;align-items:center;margin-bottom:32px">
+  <div style="width:170px;height: 96px;background:#1a1d24;margin-right: 10px;flex-shrink: 0;display: flex;align-items: center;">
+    <img style="width:100%;" src="{{ post.thumbnail }}" alt="">
+  </div>
 {% endif %}
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
+      <div class="archive__item-teaser" style="margin-bottom:10px">
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title no_toc" itemprop="headline">
+    <h2 class="archive__item-title no_toc" itemprop="headline" style="margin-top:0">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink" style="text-decoration:none;"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -32,7 +34,7 @@
     {% include post__meta.html type=include.type %}
         
     {% if page.subtitle %}
-        <p class="archive__item-excerpt" itemprop="description">{{ page.subtitle }}</p>
+        <p class="archive__item-excerpt" itemprop="description" style="margin:0">{{ page.subtitle }}</p>
     {% else %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     {% endif %}
