@@ -13,7 +13,7 @@ classes: wide
 ---
 
 [Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)
-  Arthur Carvalho Walraven da Cunha
+  [Arthur Carvalho Walraven da Cunha](https://github.com/ArthurWalraven)
 
 **X Semana Acadêmica da Computação (2015)**  
 **Universidade Federal do Ceará (UFC)**
