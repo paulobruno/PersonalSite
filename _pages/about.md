@@ -20,7 +20,7 @@ When I'm not playing video games or reading papers, I work as a C/C++ and Python
 </p>
 
 <p style="text-align:left;">
-My development interests include <a href="http://gamesfromwithin.com/data-oriented-design">Data-Oriented Design</a>, game development, and now I'm learning <a href="https://eldred.fr/gb-asm-tutorial/">GB ASM</a>.
+My development interests include <a href="http://gamesfromwithin.com/data-oriented-design">Data-Oriented Design</a>, game development, and now I'm learning <a href="https://github.com/paulobruno/GbAsmTutorials">GB ASM</a>.
 </p>
 
 
