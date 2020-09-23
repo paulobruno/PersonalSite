@@ -19,4 +19,4 @@ classes: wide
     <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;border:none" src="https://docs.google.com/presentation/d/e/2PACX-1vRF6ahwF2zg31HyHh5zXoH86UH4HLQ16qud7mEM7esM361JEd1zdWUUkJ7JOrcJVQdTPaHn4SMV30dP/embed?start=true&loop=false&delayms=30000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-Slides: [[Online](https://docs.google.com/presentation/d/e/2PACX-1vRF6ahwF2zg31HyHh5zXoH86UH4HLQ16qud7mEM7esM361JEd1zdWUUkJ7JOrcJVQdTPaHn4SMV30dP/pub?start=true&loop=false&delayms=30000)] [[PDF](/assets/pdfs/DrlTodaysAIsBeatHumans.pdf)]
+Slides: [[Low-Res](https://docs.google.com/presentation/d/e/2PACX-1vRF6ahwF2zg31HyHh5zXoH86UH4HLQ16qud7mEM7esM361JEd1zdWUUkJ7JOrcJVQdTPaHn4SMV30dP/pub?start=true&loop=false&delayms=30000)] [[High-Res](https://docs.google.com/presentation/d/e/2PACX-1vRU1VBC4xhLgpTJ-bjNe-K6JCl8pcYGyPDvo3xLTmev6P4mWhWhbsCYKUq-cXmGo2KsNb84i3H2A7Yl/pub?start=true&loop=false&delayms=30000)] [[PDF](/assets/pdfs/DrlTodaysAIsBeatHumans.pdf)]
