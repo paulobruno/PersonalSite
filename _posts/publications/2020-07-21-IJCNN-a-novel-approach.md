@@ -1,9 +1,9 @@
 ---
 title: "A Novel Approach for Automatic Enhancement of Fingerprint Images via Deep Transfer Learning"
 subtitle: "2020 International Joint Conference on Neural Networks (IJCNN)"
-thumbnail: /assets/images/ijcnn-2020.jpg
+thumbnail: /assets/images/ijcnn-2020-thumb.jpg
 header:
-    teaser: /assets/images/ijcnn-2020.jpg
+    teaser: /assets/images/ijcnn-2020-thumb.jpg
 categories:
   - Publication
 tags:
@@ -33,13 +33,11 @@ tags:
     <sup>5</sup>Laboratório de Processamento de Imagens, Sinais e Computação Aplicada (LAPISCO), Federal Institute of Ceará
 </p>
 
-![General procedure](/assets/images/ijcnn-2020-figure_flow.jpg)
-
-![Training procedure](/assets/images/ijcnn-2020-training_flow.jpg)
+![General procedure](/assets/images/ijcnn-2020-thumb.jpg)
 
 ---
 
-Page: [[]()]
+Page: [[IEEE](https://ieeexplore.ieee.org/document/9206836)]
 
 
 ### Abstract
@@ -61,15 +59,15 @@ For any Automated Fingerprint Identification System, the quality of its images i
   author  = {Medeiros, Ald\'{i}sio Gon\c{c}alves and
     Andrade, Jo{\~{a}}o Pedro Bernardino and
     Serafim, Paulo Bruno Sousa and
-    Alexandre Magno Monte Santos and
+    Santos, Alexandre Magno Monte and
     Maia, Jos\'{e} Gilvan Rodrigues and
     Trinta, Fernando Antonio Mota and
     Mac\^{e}do, Jos\'{e} Antônio Fernandes and
     {Rebou\c{c}as Filho}, Pedro Pedrosa and
     Rego, Paulo Antonio Leal},
   booktitle = {2020 International Joint Conference on Neural Networks (IJCNN)},
-  pages = {},
+  pages = {1--8},
   year = {2020},
-  doi = {}
+  doi = {10.1109/IJCNN48605.2020.9206836}
 }
 ```
