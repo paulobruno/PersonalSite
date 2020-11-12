@@ -55,7 +55,7 @@ This work proposes an autonomous system capable of foraging in an environment th
 
 ```
 @InProceedings{mesquita2020autonomous,
-  title = {Autonomous Foraging with SARSA-based Deep Reinforcement Learning},
+  title = {Autonomous Foraging with {SARSA}-based Deep Reinforcement Learning},
   author  = {Mesquita, Anderson Oliveira and Nogueira, Yuri Lenon Barbosa and Vidal, Creto Augusto and Cavalcante-Neto, Joaquim Bento and Serafim, Paulo Bruno Sousa},
   booktitle = {Proceedings of the XXII Symposium on Virtual and Augmented Reality (SVR)},
   pages = {1--9},

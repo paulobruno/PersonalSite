@@ -56,10 +56,10 @@ A criação de jogos do gênero RPG requer diversas etapas que estão relacionad
 
 ```
 @InProceedings{santos2020simplificando,
-  title = {Simplificando o Balanceamento de Atributos em RPGs Eletr\^onicos},
+  title = {Simplificando o Balanceamento de Atributos em {RPG}s Eletr\^onicos},
   author  = {Santos, Alexandre Magno Monteiro and
-    Serafim, Paulo Bruno de Sousa and
-    Franco, Artur de Oliveira da Rocha and
+    Serafim, Paulo Bruno Sousa and
+    Franco, Artur Oliveira Rocha and
     Carmo, Rafael Augusto Ferreira and
     Maia, Jos\'{e} Gilvan Rodrigues},
   booktitle = {Proceedings of the XIX Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)},
