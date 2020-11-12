@@ -43,7 +43,9 @@ A criação de jogos do gênero RPG requer diversas etapas que estão relacionad
 
 ### Video
 
-{% include video id="EqzOA6Ywd5s?t=267" provider="youtube" %}
+<p style="text-align:left;font-size:0.7em"><i>Presentation starts at 4:07</i></p>
+
+{% include video id="EqzOA6Ywd5s" provider="youtube" %}
 
 
 ### BitTeX

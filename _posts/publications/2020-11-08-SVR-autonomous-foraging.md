@@ -42,7 +42,9 @@ This work proposes an autonomous system capable of foraging in an environment th
 
 ### Video
 
-{% include video id="RwAUlDVUEhw?t=106" provider="youtube" %}
+<p style="text-align:left;font-size:0.7em"><i>Presentation starts at 1:47</i></p>
+
+{% include video id="RwAUlDVUEhw" provider="youtube" %}
 
 
 ### BitTeX
