@@ -16,6 +16,14 @@ main:
 papers-sidebar:
   - title: 2020
     children:
+      - title: "SBGames 2020 Computing"
+        url: /publication/SBGames-investigating-deep/
+      - title: "SVR 2020 Chapter"
+        url: /publication/SVR-drl-ambientes-virtuais/
+      - title: "SVR 2020 Paper"
+        url: /publication/SVR-autonomous-foraging/
+      - title: "SBGames 2020 Design"
+        url: /publication/SBGames-simplificando-balanceamento/
       - title: "IJCNN 2020"
         url: /publication/IJCNN-a-novel-approach/
   - title: 2019
