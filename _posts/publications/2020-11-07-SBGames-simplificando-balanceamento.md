@@ -13,7 +13,7 @@ tags:
 ---
 
 *XIX Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)*  
-**Best Paper Award Finalist**
+**Best Paper Award - Third Place**
 
 [Alexandre Magno Monteiro Santos](https://github.com/magnomont12)<sup>1</sup>
   [Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)<sup>2</sup>
