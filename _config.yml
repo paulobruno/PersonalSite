@@ -97,7 +97,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Deep Reinforcement Learning Researcher ; Software Developer"
   location: "Fortaleza, BR"
-  email: &email "pbrunosousa@gmail.com"
+  # email: &email "pbrunosousa@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
