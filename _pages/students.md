@@ -22,6 +22,7 @@ author_profile: true
 #### BSc
 
 <ul>
+  <li style="text-align:left"><a href="https://github.com/hyuan02">Hyuan Peixoto Farrapo</a> (2020-)</li>
   <li style="text-align:left"><a href="https://github.com/romulofff">Rômulo Férrer Filho</a> (2019-)</li>
   <li style="text-align:left"><a href="https://github.com/magnomont12">Alexandre Magno</a> (2019-) [co-advisor]</li>
 </ul>
