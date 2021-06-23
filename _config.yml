@@ -111,7 +111,7 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Paulo_Serafim2"
-    - label: "Resumé"
+    - label: "Résumé"
       icon: "fas fa-fw fa-file-alt"
       url: "/assets/cv/PauloBrunoResume.pdf"
     - label: "Lattes CV"
