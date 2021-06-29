@@ -31,7 +31,6 @@ tags:
 ---
 
 Paper: [[PDF](https://www.sbgames.org/proceedings2020/ArtesDesignFull/209491.pdf)]
- Page: [IEEE]
 
 
 ### Abstract
