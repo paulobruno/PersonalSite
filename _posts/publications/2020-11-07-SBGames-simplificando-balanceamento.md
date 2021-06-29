@@ -64,7 +64,6 @@ A criação de jogos do gênero RPG requer diversas etapas que estão relacionad
   booktitle = {Proceedings of the XIX Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)},
   pages = {1--9},
   year = {2020},
-  issn = {2179-2259},
-  doi = {}
+  issn = {2179-2259}
 }
 ```
