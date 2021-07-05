@@ -59,6 +59,6 @@ This work proposes an autonomous system capable of foraging in an environment th
   booktitle = {Proceedings of the XXII Symposium on Virtual and Augmented Reality (SVR)},
   pages = {1--9},
   year = {2020},
-  doi = {}
+  doi = {10.1109/SVR51698.2020.00070}
 }
 ```
