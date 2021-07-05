@@ -62,6 +62,6 @@ Graphical updates are very common in modern digital games. For instance, PC game
   pages = {1--9},
   year = {2020},
   issn = {2179-2259},
-  doi = {}
+  doi = {10.1109/SBGames51465.2020.00025}
 }
 ```
