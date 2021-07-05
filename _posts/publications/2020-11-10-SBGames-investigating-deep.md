@@ -31,7 +31,7 @@ tags:
 ---
 
 Paper: [[PDF](https://www.sbgames.org/proceedings2020/ComputacaoFull/209515.pdf)]
- Page: [IEEE]
+ Page: [[IEEE](https://ieeexplore.ieee.org/document/9291626)]
 
 
 ### Abstract
