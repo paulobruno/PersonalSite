@@ -95,6 +95,7 @@ analytics:
 author:
   name: *name
   avatar: "/assets/images/bio-photo.jpg"
+  home: "/about"
   bio: "Research Engineer @ Inria"
   location: "Sophia Antipolis, France"
   # email: "pbrunosousa at gmail dot com"
