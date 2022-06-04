@@ -95,9 +95,9 @@ analytics:
 author:
   name: *name
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Deep Reinforcement Learning Researcher ; Software Developer"
-  location: "Fortaleza, BR"
-  # email: &email "pbrunosousa@gmail.com"
+  bio: "Research Engineer @ Inria"
+  location: "Sophia Antipolis, France"
+  # email: "pbrunosousa at gmail dot com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
