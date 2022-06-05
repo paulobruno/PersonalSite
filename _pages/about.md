@@ -20,7 +20,7 @@ I received a Master's degree in Computer Science in 2018 from the <a href="https
 ## Interests
 
 <p style="text-align:left;">
-My current Deep Reinforcement Learning interests include multi-agent cooperation and competition, emulation of human play styles in Non-Player Characters, and interpretability of autonomous agents. Other research interests include Neural Network Optimization, Computer Vision, and world modelling and simulation.
+My current Deep Reinforcement Learning interests include multi-agent cooperation and competition, emulation of human play styles in Non-Player Characters, and interpretability of autonomous agents. Other research interests include Neural Network Optimization, Computer Vision, and world modeling and simulation.
 </p>
 
 <p style="text-align:left;">
