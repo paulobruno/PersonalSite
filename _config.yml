@@ -115,7 +115,7 @@ author:
     - label: "Résumé"
       icon: "fas fa-fw fa-file-alt"
       url: "/assets/cv/PauloBrunoResume.pdf"
-    - label: "Full CV"
+    - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-copy"
       url: "/assets/cv/PauloBrunoCv.pdf"
     - label: "Lattes CV"
