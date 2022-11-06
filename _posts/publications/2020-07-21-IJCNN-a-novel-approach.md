@@ -47,7 +47,7 @@ For any Automated Fingerprint Identification System, the quality of its images i
 </p>
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/medeiros2020novel.bib">Download</a>

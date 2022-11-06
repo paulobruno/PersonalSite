@@ -42,7 +42,7 @@ A large number of algorithms to generate behaviors of game agents have been deve
 </p>
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/cordeiro2019minimal.bib">Download</a>

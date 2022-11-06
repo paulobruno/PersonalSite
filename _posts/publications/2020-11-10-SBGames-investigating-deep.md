@@ -48,7 +48,7 @@ Graphical updates are very common in modern digital games. For instance, PC game
 {% include video id="Zp1_KQdWSI0" provider="youtube" %}
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/serafim2020investigating.bib">Download</a>

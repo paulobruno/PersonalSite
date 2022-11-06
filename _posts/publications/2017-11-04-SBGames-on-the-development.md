@@ -46,7 +46,7 @@ First-Person Shooter games have always been very popular. One of the challenges 
 {% include video id="JTNZCXO1r2Y" provider="youtube" %}
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/serafim2017on.bib">Download</a>

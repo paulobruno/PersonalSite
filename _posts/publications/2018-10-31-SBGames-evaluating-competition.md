@@ -45,7 +45,7 @@ This work evaluates competition in training of autonomous agents immersed in Fir
 {% include video id="LVtxSdJiW4c" provider="youtube" %}
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/serafim2018evaluating.bib">Download</a>

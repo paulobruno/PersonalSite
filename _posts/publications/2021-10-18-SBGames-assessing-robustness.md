@@ -45,7 +45,7 @@ The research in autonomous agents aspires to achieve Artificial General Intellig
 {% include video id="RmV6rUZQaeE" provider="youtube" %}
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/serafim2021assessing.bib">Download</a>

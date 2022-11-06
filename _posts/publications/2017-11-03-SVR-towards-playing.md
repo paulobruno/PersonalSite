@@ -44,7 +44,7 @@ In this work, we present a network architecture to solve a supervised learning p
 {% include video id="3MQRcfnaD1Q" provider="youtube" %}
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/serafim2017towards.bib">Download</a>

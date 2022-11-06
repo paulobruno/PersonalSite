@@ -44,7 +44,7 @@ Esse capítulo apresenta conceitos fundamentais relacionados ao Aprendizado por 
 {% include video id="LU-LJUo6fyA" provider="youtube" %}
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/serafim2020deep.bib">Download</a>

@@ -42,7 +42,7 @@ An Automated Fingerprint Identification System (AFIS) is the cornerstone of many
 </p>
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/fernandes2021robust.bib">Download</a>

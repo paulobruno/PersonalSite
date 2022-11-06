@@ -47,7 +47,7 @@ This work presents a Reinforcement Learning environment, called Gym Hero, based 
 {% include video id="eJRgUhP-88E" provider="youtube" %}
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/ferrer2021gymhero.bib">Download</a>

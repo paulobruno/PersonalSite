@@ -46,7 +46,7 @@ This work proposes an autonomous system capable of foraging in an environment th
 {% include video id="RwAUlDVUEhw" provider="youtube" %}
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/mesquita2020autonomous.bib">Download</a>

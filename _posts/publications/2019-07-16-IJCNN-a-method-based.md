@@ -49,7 +49,7 @@ In forensic science, the resolution of crimes is associated with the identificat
 </p>
 
 
-### BitTeX
+### BibTeX
 
 <p style="text-align:left">
   <a  href="/assets/citations/serafim2019ijcnn.bib">Download</a>
