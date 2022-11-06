@@ -20,7 +20,7 @@ title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Paulo Bruno Serafim"
-description              : "Personal Site." 
+description              : "Personal Site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,9 +96,8 @@ author:
   name: *name
   avatar: "/assets/images/bio-photo.jpg"
   home: "/about"
-  bio: "Research Engineer @ Inria"
-  location: "Sophia Antipolis, France"
-  # email: "pbrunosousa at gmail dot com"
+  bio: "*PhD Student* @ [**GSSI**](https://www.gssi.it/)"
+  location: "L'Aquila, Italia"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -301,7 +300,7 @@ defaults:
       related: true
       show_date: true
       sidebar:
-        nav: "papers-sidebar"    
+        nav: "papers-sidebar"
   # _posts/talks
   - scope:
       path: "_posts/talks"
