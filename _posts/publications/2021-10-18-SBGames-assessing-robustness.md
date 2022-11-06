@@ -29,6 +29,7 @@ tags:
 ---
 
 Paper: [[PDF](https://www.sbgames.org/proceedings2021/ComputacaoFull/217993.pdf)]
+ Page: [[IEEE](https://ieeexplore.ieee.org/document/9637695)]
 
 
 ### Abstract
