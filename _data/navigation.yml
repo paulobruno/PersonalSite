@@ -48,6 +48,8 @@ papers-sidebar:
     children:
       - title: "SBGames 2018"
         url: /publication/SBGames-evaluating-competition/
+      - title: "Master's Thesis"
+        url: /publication/Masters-avaliacao-competicao/
   - title: 2017
     children:
       - title: "SBGames 2017"
