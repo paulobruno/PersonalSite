@@ -14,7 +14,7 @@ tags:
 
 *XXI Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)*  
 
- [Hyuan Peixoto Farrapo](https://github.com/hyuan02)<sup>1,2</sup>
+ [Hyuan Peixoto Farrapo](https://hyuan02.github.io/)<sup>1,2</sup>
     [Rômulo Freire Férrer Filho](https://romulofff.github.io/)<sup>1,3</sup>  
 [José Gilvan Rodrigues Maia](https://scholar.google.com.br/citations?user=gnTTsAYAAAAJ&hl=en)<sup>1,2</sup>
   [Paulo Bruno de Sousa Serafim](https://paulobruno.github.io)<sup>4</sup>
