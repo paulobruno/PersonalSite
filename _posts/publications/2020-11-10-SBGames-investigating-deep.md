@@ -18,7 +18,7 @@ tags:
   [Yuri Lenon Barbosa Nogueira](http://www.lia.ufc.br/~yuri/)<sup>2</sup>
   [Creto Augusto Vidal](http://www.lia.ufc.br/~cvidal/)<sup>2</sup>  
 [Joaquim Bento Cavalcante Neto](http://www.lia.ufc.br/~joaquimb/)<sup>2</sup>
-  [Rômulo Freire Férrer Filho](https://github.com/romulofff)<sup>3</sup>
+  [Rômulo Freire Férrer Filho](https://romulofff.github.io/)<sup>3</sup>
 
 <p style="font-size:0.7em">
     <sup>1</sup>Instituto Atlântico

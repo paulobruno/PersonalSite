@@ -14,7 +14,7 @@ tags:
 
 *XX Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)*  
 
-[Rômulo Freire Férrer Filho](https://github.com/romulofff)<sup>1</sup>
+[Rômulo Freire Férrer Filho](https://romulofff.github.io/)<sup>1</sup>
   [Yuri Lenon Barbosa Nogueira](http://www.lia.ufc.br/~yuri/)<sup>2</sup>
   [Creto Augusto Vidal](http://www.lia.ufc.br/~cvidal/)<sup>2</sup>  
 [Joaquim Bento Cavalcante Neto](http://www.lia.ufc.br/~joaquimb/)<sup>2</sup>

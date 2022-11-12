@@ -16,7 +16,7 @@ author_profile: true
 #### MSc
 
 <ul>
-  <li style="text-align:left"><a href="https://github.com/romulofff">Rômulo Férrer Filho</a> (2021-)</li>
+  <li style="text-align:left"><a href="https://romulofff.github.io/">Rômulo Férrer Filho</a> (2021-)</li>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/magnomont12">Alexandre Magno</a> (2021-)</li>
 </ul>
 
@@ -33,7 +33,7 @@ author_profile: true
 
 <ul>
   <li style="text-align:left"><a href="https://github.com/hyuan02">Hyuan Peixoto Farrapo</a> (2020-2022)</li>
-  <li style="text-align:left"><a href="https://github.com/romulofff">Rômulo Férrer Filho</a> (2019-2020)</li>
+  <li style="text-align:left"><a href="https://romulofff.github.io/">Rômulo Férrer Filho</a> (2019-2020)</li>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/magnomont12">Alexandre Magno</a> (2019-2020) [co-advisor]</li>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/anderson-oliveira-b65099133/">Anderson Oliveira</a> (2017-2019) [co-advisor]</li>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/matheus-cordeiro-453373ba/">Matheus Cordeiro</a> (2017-2019) [co-advisor]</li>
