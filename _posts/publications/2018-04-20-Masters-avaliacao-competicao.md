@@ -52,6 +52,6 @@ This work evaluates competition in training of autonomous agents immersed in Fir
   author = {Serafim, Paulo Bruno de Sousa}, 
   title = {Avalia\c{c}\~{a}o da competi\c{c}\~{a}o no treino de agentes aut\^{o}nomos com Aprendizado Profundo por Refor\c{c}o em jogos de Tiro em Primeira Pessoa},
   school = {Universidade Federal do Cear\'{a}},
-  year = 2018
+  year = {2018}
 }
 ```
