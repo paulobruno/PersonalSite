@@ -6,8 +6,8 @@ main:
     url: /publications/
   - title: "Talks"
     url: /talks/
-#  - title: "Research"
-#    url: /research/
+  - title: "Research"
+    url: /research/
   - title: "Students"
     url: /students/
   - title: "About"
@@ -40,10 +40,10 @@ papers-sidebar:
         url: /publication/IJCNN-a-novel-approach/
   - title: 2019
     children:
-      - title: "IJCNN 2019"
-        url: /publication/IJCNN-a-method-based/
       - title: "SBGames 2019"
         url: /publication/SBGames-a-minimal-training/
+      - title: "IJCNN 2019"
+        url: /publication/IJCNN-a-method-based/
   - title: 2018
     children:
       - title: "SBGames 2018"
