@@ -10,7 +10,7 @@ author_profile: true
 #### PhD
 
 <ul>
-  <li style="text-align:left"><a href="https://www.linkedin.com/in/halisson-rodrigo-7b803651/">Halisson Rodrigo</a>, since 2020</li>
+  <li style="text-align:left"><a href="https://www.linkedin.com/in/halisson-rodrigo-7b803651/">Halisson Rodrigo</a>, since 2020 (co-advisor)</li>
 </ul>
 
 #### MSc
@@ -28,7 +28,7 @@ author_profile: true
 <ul>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/anderson-oliveira-b65099133/">Anderson Oliveira</a>, 2019-2020 (co-advisor)</li>
 </ul>
-  
+
 #### BSc
 
 <ul>
