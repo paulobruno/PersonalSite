@@ -30,8 +30,7 @@ tags:
 
 ---
 
-<!-- Paper: [[PDF](https://www.sbgames.org/proceedings2022/ComputacaoFull/.pdf)] -->
-<!--  Page: [[IEEE](https://ieeexplore.ieee.org/document/)] -->
+Page: [[IEEE](https://ieeexplore.ieee.org/document/9961113)]
 
 
 ### Abstract
