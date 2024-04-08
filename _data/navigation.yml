@@ -18,6 +18,8 @@ papers-sidebar:
     children:
       - title: "SBGames 2023"
         url: /publication/SBGames-unveiling/
+      - title: "ROADEF 2023"
+        url: /publication/ROADEF-worlddynamics/
   - title: 2022
     children:
       - title: "SBGames 2022"
