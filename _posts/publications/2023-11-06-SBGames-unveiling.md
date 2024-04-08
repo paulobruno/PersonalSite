@@ -61,6 +61,7 @@ Training agents using Deep Reinforcement Learning methods is rapidly progressing
     Serafim, Paulo Bruno Sousa},
   booktitle = {Proceedings of the XXII Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)},
   pages = {86--95},
-  year = {2023}
+  year = {2023},
+  doi = {10.1145/3631085.3631230}
 }
 ```
