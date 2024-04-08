@@ -14,6 +14,10 @@ main:
     url: /about/
     
 papers-sidebar:
+  - title: 2024
+    children:
+      - title: "JOSS 2024"
+        url: /publication/JOSS-worlddynamics/
   - title: 2023
     children:
       - title: "SBGames 2023"
