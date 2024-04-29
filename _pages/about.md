@@ -29,7 +29,7 @@ author:
 
 <p style="text-align:left;">
 I'm a PhD student in Computer Science at <a href="https://www.gssi.it/">GSSI</a>, in L'Aquila.
-In collaboration with <a href="https://natema.github.io/ema-webpage/">Emanuele Natale</a> and <a href="https://www.pilucrescenzi.it/">Pierluigi Crescenzi</a>, I'm the main programmer of <a href="https://github.com/worlddynamics/WorldDynamics.jl">WorldDynamics.jl</a>, an open-source framework for world dynamics modeling and simulation.
+Advised by <a href="https://www.pilucrescenzi.it/">Pierluigi Crescenzi</a> and <a href="https://www.sns.it/it/persona/fosca-giannotti">Fosca Giannotti</a>, I'm doing research on <i>Conversational Explainable AI</i>, leveraging Large Language Model capabilities to develop an interactive user-centered tool. 
 I'm also an external collaborator of the <a href="https://portal.dc.ufc.br/pesquisa/crab/">CRAb</a> research group in Brazil and the co-advisor of three graduate <a href="/students">students</a> on works with <i>Deep Reinforcement Learning</i>.
 </p>
 
@@ -47,7 +47,8 @@ I'm also interested in high-performance code, <a href="http://gamesfromwithin.co
 ## Work Experience
 
 <p style="text-align:left;">
-I worked as a Research Engineer in the <a href="https://team.inria.fr/coati">COATI Project-Team</a> on projects of <i>Neural Network Optimization</i>, under the supervision of CNRS researcher <a href="https://natema.github.io/ema-webpage/">Emanuele Natale</a> @<a href="https://www.inria.fr/en/inria-centre-universite-cote-azur">Inria</a>.
+I worked as a Research Engineer in the <a href="https://team.inria.fr/coati">COATI Project-Team</a> on projects of <i>Neural Network Optimization</i>, under the supervision of CNRS researcher <a href="https://natema.github.io/ema-webpage/">Emanuele Natale</a> @<a href="https://www.inria.fr/en/inria-centre-universite-cote-azur">Inria</a>. 
+In collaboration with <a href="https://www.pilucrescenzi.it/">Pierluigi Crescenzi</a> and <a href="https://natema.github.io/ema-webpage/">Emanuele Natale</a>, I was the main programmer of <a href="https://github.com/worlddynamics/WorldDynamics.jl">WorldDynamics.jl</a>, an open-source framework for world dynamics modeling and simulation.
 Previously, I worked with <i>Data Science</i>, <i>Computer Vision</i> for human segmentation, <i>Optical Character Recognition</i>, and <i>Computational Geometry</i> applied to 3D printing @<a href="https://www.atlantico.com.br">Instituto Atlântico</a>.
 Before, I worked with <i>Digital Image Processing</i> for Biometrics and fingerprint segmentation with <i>Deep Neural Networks</i> @<a href="https://www.great.ufc.br/">GREat</a>.
 </p>
