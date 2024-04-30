@@ -5,6 +5,10 @@ layout: single
 author_profile: true
 ---
 
+<p style="text-align:justify;">
+I am lucky to have had the opportunity to help some students over the years and very proud of the work we have been developing together.
+</p>
+
 ## Current Students
 
 #### PhD
