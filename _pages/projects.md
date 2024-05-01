@@ -36,6 +36,14 @@ The general objective of research on XAI is to develop methods that can explain 
 <b>Documentation</b>: <a href="https://worlddynamics.github.io/WorldDynamics.jl/dev/">WorldDynamics.jl Docs</a>
 </p>
 
+<p style="text-align:left;">
+<b>Related publications</b>
+<ol>
+  <li style="text-align:left"><a href="/publication/JOSS-worlddynamics/">WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models</a></li>
+  <li style="text-align:left"><a href="/publication/ROADEF-worlddynamics/">Un framework open-source écrit en Julia pour la modélisation d’évaluation globale intégrée</a></li>
+</ol>
+</p>
+
 ### Interpretability of DRL agents
 
 <p style="text-align:left;">
