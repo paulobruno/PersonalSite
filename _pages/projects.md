@@ -9,6 +9,8 @@ author_profile: true
 
 ### Conversational XAI
 
+{% include figure image_path="/assets/images/phdtheme.png" %}
+
 <p style="text-align:left;">
 Conversational XAI is the theme of my PhD research project. Here's a brief summary.
 The general objective of research on XAI is to develop methods that can explain a decision made by a Machine Learning model. However, these methods are not accessible, since they often require programming knowledge and ML expertise. A recent effort to address this challenge is to employ an interdisciplinary approach using Human-Computer Interaction. Conversational XAI methods aim to provide a more familiar way of interacting with models by implementing an interface based on natural language. My PhD research goal is to bridge the gap between non-expert users and XAI techniques by developing a conversational tool leveraging user-centered approaches and natural language interaction.
