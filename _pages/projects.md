@@ -29,6 +29,10 @@ The general objective of research on XAI is to develop methods that can explain 
 </p>
 
 <p style="text-align:left;">
+<b>Current Status</b>: <a href="https://github.com/worlddynamics/WorldDynamics.jl">WorldDynamics.jl</a> is being maintained by <a href="https://aurorarossi.github.io">Aurora Rossi</a> and <a href="https://natema.github.io/ema-webpage/">Emanuele Natale</a>.
+</p>
+
+<p style="text-align:left;">
 <b>Repository</b>: <a href="https://github.com/worlddynamics/WorldDynamics.jl">WorldDynamics.jl GitHub</a>
 </p>
 
