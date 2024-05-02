@@ -23,7 +23,7 @@ The general objective of research on XAI is to develop methods that can explain 
 ### Interpretability of DRL agents
 
 <p style="text-align:left;">
-One of my research interests is applying Explainable Artificial Intelligence (XAI) methods to autonomous agents. In particular, for agents developed using Deep Reinforcement Learning (DRL). This research branch started with a work in 2020 by investigating how the agents would perform in the same scenario but with different textures<sup>3</sup>. Then, a more rigorous assessment of how specific game object appearance affects an agent's performance<sup>2</sup> followed. At this moment, XAI applied to DRL is the subject of <a href="https://www.linkedin.com/in/magnomont12">Alexandre Magno</a> Master's research<sup>1</sup>.
+One of my research interests is applying Explainable Artificial Intelligence (XAI) methods to autonomous agents. In particular, for agents developed using Deep Reinforcement Learning (DRL). This research branch started with a work in 2020 by investigating how the agents would perform in the same scenario but with different textures<sup><a href="/publication/SBGames-investigating-deep/">3</a></sup>. Then, a more rigorous assessment of how specific game object appearance affects an agent's performance<sup><a href="/publication/SBGames-assessing-robustness/">2</a></sup> followed. At this moment, XAI applied to DRL is the subject of <a href="https://www.linkedin.com/in/magnomont12">Alexandre Magno</a> Master's research<sup><a href="/publication/SBGames-unveiling/">1</a></sup>.
 </p>
 
 <p style="text-align:left;">
