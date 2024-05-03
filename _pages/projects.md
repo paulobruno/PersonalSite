@@ -96,3 +96,18 @@ Gym Hero is a Reinforcement Learning environment based on the game Guitar Hero. 
 <p style="text-align:left;">
 <b>Publication</b>: <a href="/publication/SBGames-gym-hero/">Gym Hero: A Research Environment for Reinforcement Learning Agents in Rhythm Games</a>
 </p>
+
+### Foraging Behavior
+
+<p style="text-align:left;">
+Although not a project itself, I have been using foraging environments as an evaluation testbed for Reinforcement Learning agents. I have used a foraging scenario in a Doom game in one of my first published papers<sup><a href="/publication/SBGames-on-the-development/">3</a></sup>. <a href="https://www.linkedin.com/in/anderson-oliveira-b65099133/">Anderson Oliveira</a> also used a foraging task in a 3D environment to evaluate the performance of different RL algorithms<sup><a href="/publication/SVR-autonomous-foraging/">2</a></sup>. More recently, I was invited to give a talk at the <a href="https://future-of-foraging-seminars.github.io/">Future of Foraging</a> series<sup><a href="/talk/drl-foraging-simulation/">1</a></sup>.
+</p>
+
+<p style="text-align:left;">
+<b>Related publications</b>
+<ol>
+  <li style="text-align:left"><a href="/talk/drl-foraging-simulation/">Deep Reinforcement Learning in Foraging Simulation</a></li>
+  <li style="text-align:left"><a href="/publication/SVR-autonomous-foraging/">Autonomous Foraging with SARSA-based Deep Reinforcement Learning</a></li>
+  <li style="text-align:left"><a href="/publication/SBGames-on-the-development/">On the Development of an Autonomous Agent for a 3D First-Person Shooter Game Using Deep Reinforcement Learning</a></li>
+</ol>
+</p>
