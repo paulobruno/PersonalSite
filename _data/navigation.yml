@@ -12,10 +12,12 @@ main:
     url: /students/
   - title: "About"
     url: /about/
-    
+
 papers-sidebar:
   - title: 2024
     children:
+      - title: "HHAI 2024"
+        url: /publication/HHAI-exploring/
       - title: "JOSS 2024"
         url: /publication/JOSS-worlddynamics/
   - title: 2023
